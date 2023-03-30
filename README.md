@@ -1,5 +1,5 @@
 # rest-api-authentication
 
-A simple rest api authentication for own app api authentication using JWT (Json Web Token)
+A simple REST API authentication using JWT (JSON Web Token)
 
-And this app is also been currently worked on as i have not been chanced to completing it
+This is a practice project. Please don't expect to see much
